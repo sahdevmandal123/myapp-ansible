@@ -1,2 +1,2 @@
 [webserver]
-10.33.186.181 ansible_user=ubuntu
+10.33.186.181 ansible_user=ubuntu ansible_ssh_id_ed25519=/root/.ssh/id_ed25519
